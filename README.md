@@ -1,5 +1,8 @@
 # Verba Studio
 
+
+**Bấm ghi → nhận lại bản quay màn hình, bản bóc lời tiếng Việt và video đã dựng, không cần dựng tay.**
+
 Verba Studio - Phong thu chuyen nghiep cho Streamer & Creator.
 
 ## Tai ban moi nhat cho Windows
