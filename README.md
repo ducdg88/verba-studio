@@ -12,3 +12,8 @@ Dung luong file ZIP: 301.85 MB
 SHA256: `2EE62CD92004C588E0439838A35D42B4EC6C7D601779A4926A8B47DC31E5BAD3`
 
 Luu y: Hay tai dung link tren de dam bao dung ban hien tai da duoc don dep va kiem tra.
+
+
+---
+
+Made by [DUCPT](https://ducpt.com/?utm_source=github&utm_medium=readme&utm_campaign=verba-studio) — AI agents, automation and digital products for one-person businesses. This tool: https://ducpt.com/cong-cu-ai/verba-studio/?utm_source=github&utm_medium=readme&utm_campaign=verba-studio
