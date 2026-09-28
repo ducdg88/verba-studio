@@ -6,6 +6,8 @@ Verba Studio: a professional studio for streamers and creators.
 
 **Bấm ghi → nhận lại bản quay màn hình, bản bóc lời tiếng Việt và video đã dựng, không cần dựng tay.**
 
+**Hit record → get the screen capture, the Vietnamese transcript and an edited video back, no manual editing needed.**
+
 Verba Studio: phòng thu chuyên nghiệp cho streamer và creator.
 
 ## Download the latest Windows build · Tải bản mới nhất cho Windows
